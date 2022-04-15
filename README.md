@@ -1,10 +1,10 @@
 
 
-### Base docker entrypoint
-
+# Base docker entrypoint
 
 Provide a single file docker-entrypoint.sh, intended to be set as a Dockerfile's `ENTRYPOINT`.
 
+![WeSupportUkraine](https://raw.githubusercontent.com/Infrastrukturait/WeSupportUkraine/main/banner.svg)
 
 Authors
 =======
